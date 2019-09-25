@@ -1,2 +1,8 @@
-# dataviz-usa-airlines-performance
-Data visualization project on USA airlines on-time performance.
+# Data visualization Project
+
+## Data
+
+The data I propose to visualize for my project is 
+
+
+## Prototypes
