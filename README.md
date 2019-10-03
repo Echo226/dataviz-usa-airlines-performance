@@ -27,6 +27,16 @@ The following tasks and questions will drive the visualization and interaction d
 - How are the top-5 busiest flights perform for different airports?
 
 
+## Interactions:
+
+- There will be a dropdown box called "time" containing four options: DAY_OF_MONTH, WEEKDAY, MONTH and DATE. Clicking on these different options will show the USA Flight On-time Performance in different time aspects.
+- There will be another dropdown box containing "departure" and "arrival" and it will show the departure performance and arrival performance seperately.
+
+
+## Schedule of Deliverables:
+-
+-
+
 
 ## Sketches
 
