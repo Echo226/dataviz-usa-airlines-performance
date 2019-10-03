@@ -34,14 +34,14 @@ The following tasks and questions will drive the visualization and interaction d
 
 
 ## Schedule of Deliverables:
-Item | Estimated time of complete
--- | --:
-Collect and clean data | Done
-Draw a radial chart to visualize USA flights' on-time performance over 'DAY_OF_MONTH'  | 10/15/2019
-Add the "departure/arrival" interaction for the radial chart | 10/21/2019
-Add different time granularities for the radial chart | 10/28/2019
-Color and polish the art| 11/03/2019
-Organize all the deliverables | 11/06/2019
+| Item                                                                                   | Estimated deadline |
+| :------------------------------------------------------------------------------------- | -----------------: |
+| Collect and clean data                                                                 | Done               |
+| Draw a radial chart to visualize USA flights' on-time performance over 'DAY_OF_MONTH'  | 10/15/2019         |
+| Add the "departure/arrival" interaction for the radial chart                           | 10/21/2019         |
+| Add different time granularities for the radial chart                                  | 10/28/2019         |
+| Color and polish the art                                                               | 11/03/2019         |
+| Organize all the deliverables                                                          | 11/06/2019         |
 
 
 ## Sketches
