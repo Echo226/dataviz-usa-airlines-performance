@@ -58,7 +58,7 @@ Data is visualized geographically.
 
 #### Sketch 3
 
-Data is visuzlized by time to answer question "How does USA carriers' on-time performance vary over time?".
+Data is visualized by time to answer question "How does USA carriers' on-time performance vary over time?".
 
 ![Airport_3_Xinting](https://user-images.githubusercontent.com/44983835/65616743-8ff19a80-df89-11e9-9c7e-eca3842ab798.jpg)
 
