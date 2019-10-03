@@ -22,7 +22,7 @@ This is a pie chart and it shows the average on-time performance of USA carriers
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
-- How does USA carriers' on-time performance vary over time?
+- How does USA flights' on-time performance vary over time?
 - What are the top-5 busiest flights for different airports?
 - How are the top-5 busiest flights perform for different airports?
 
@@ -34,8 +34,14 @@ The following tasks and questions will drive the visualization and interaction d
 
 
 ## Schedule of Deliverables:
--
--
+Item | Estimated time of complete
+-- | --:
+Collect and clean data | Done
+Draw a radial chart to visualize USA flights' on-time performance over 'DAY_OF_MONTH'  | 10/15/2019
+Add the "departure/arrival" interaction for the radial chart | 10/21/2019
+Add different time granularities for the radial chart | 10/28/2019
+Color and polish the art| 11/03/2019
+Organize all the deliverables | 11/06/2019
 
 
 ## Sketches
