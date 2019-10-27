@@ -13,9 +13,9 @@ I've created two visualization prototypes of this dataset.
 
 
 This is a map showing the location of all airports in USA. Each circle represents one airport.
-<img width="94.9" alt="Prototype1" src="https://user-images.githubusercontent.com/44983835/67640227-94360e00-f8cf-11e9-9f3e-b0dc01edc627.png">
+<img width="949/2" alt="Prototype1" src="https://user-images.githubusercontent.com/44983835/67640227-94360e00-f8cf-11e9-9f3e-b0dc01edc627.png">
 This is a radial chart and it shows the 
-<img width="58.4" alt="Prototype2" src="https://user-images.githubusercontent.com/44983835/67640233-a021d000-f8cf-11e9-9eb0-a6a7daf31fff.png">
+<img width="584/2" alt="Prototype2" src="https://user-images.githubusercontent.com/44983835/67640233-a021d000-f8cf-11e9-9eb0-a6a7daf31fff.png">
 
 
 
