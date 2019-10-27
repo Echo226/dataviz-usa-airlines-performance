@@ -1,20 +1,21 @@
 # Data Visualization Project
 
 
-
 ## Data
 
-The data I propose to visualize for my project is [USA carrier on-time performance](https://gist.github.com/Echo226/d58e972330148cb6e55c8d4ab2496215). It was collected from **United States Department of Transportation** and preprocessed with Python.
+The data I propose to visualize for my project is [USA carrier on-time performance data](https://gist.github.com/Echo226/d58e972330148cb6e55c8d4ab2496215). It was collected from **United States Department of Transportation** and preprocessed with Python.
 
 
 
 ## Prototypes
 
-I've created a proof of concept visualization of this data.
+I've created two visualization prototypes of this dataset.
 
-This is a pie chart and it shows the average on-time performance of USA carriers over time. Each segment represents one month from July, 2018 to June 2019.
 
-[<img width="619" alt="image" src="https://user-images.githubusercontent.com/44983835/65618620-9897a000-df8c-11e9-93b6-3f921e418bfa.png">](https://beta.vizhub.com/Echo226/0b7e187293e841119c7ff62c52fa4f9d?edit=files&file=index.html)
+This is a map showing the location of all airports in USA. Each circle represents one airport.
+<img width="94.9" alt="Prototype1" src="https://user-images.githubusercontent.com/44983835/67640227-94360e00-f8cf-11e9-9f3e-b0dc01edc627.png">
+This is a radial chart and it shows the 
+<img width="58.4" alt="Prototype2" src="https://user-images.githubusercontent.com/44983835/67640233-a021d000-f8cf-11e9-9eb0-a6a7daf31fff.png">
 
 
 
@@ -58,7 +59,7 @@ Using bar chart to show the most busiest airport for each State. Clicking on air
 
 Data is visualized geographically.
 
-![Airport_2_Xinting](https://user-images.githubusercontent.com/44983835/65616637-60db2900-df89-11e9-85e9-3c7ecedc63ff.jpg)
+![Airport_2_Xinting](https://user-images.githubusercontent.com/44983835/67640146-7f0caf80-f8ce-11e9-95c5-9ab227d537f5.jpg)
 
 
 
@@ -66,7 +67,7 @@ Data is visualized geographically.
 
 Data is visualized by time to answer question "How does USA carriers' on-time performance vary over time?".
 
-![Airport_3_Xinting](https://user-images.githubusercontent.com/44983835/65616743-8ff19a80-df89-11e9-9c7e-eca3842ab798.jpg)
+![Airport_3_Xinting](https://user-images.githubusercontent.com/44983835/67640148-8f248f00-f8ce-11e9-91f1-0713f254809b.jpg)
 
 
 
