@@ -66,7 +66,7 @@ This is a map showing the location of all airports in USA. Each circle represent
 #### Prototype2
 This is a radial chart and it shows the average departure delay time for all flights thorugh 20180701 to 20190630.
 
-<img width="584" alt="Prototype2" src="https://user-images.githubusercontent.com/44983835/67640233-a021d000-f8cf-11e9-9eb0-a6a7daf31fff.png">
+<img width="949" alt="Prototype2" src="https://user-images.githubusercontent.com/44983835/67640233-a021d000-f8cf-11e9-9eb0-a6a7daf31fff.png">
 
 
 
