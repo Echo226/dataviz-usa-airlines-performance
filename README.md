@@ -11,11 +11,13 @@ The data I propose to visualize for my project is [USA carrier on-time performan
 
 I've created two visualization prototypes of this dataset.
 
+- This is a map showing the location of all airports in USA. Each circle represents one airport.
 
-This is a map showing the location of all airports in USA. Each circle represents one airport.
-<img width="949/2" alt="Prototype1" src="https://user-images.githubusercontent.com/44983835/67640227-94360e00-f8cf-11e9-9f3e-b0dc01edc627.png">
-This is a radial chart and it shows the 
-<img width="584/2" alt="Prototype2" src="https://user-images.githubusercontent.com/44983835/67640233-a021d000-f8cf-11e9-9eb0-a6a7daf31fff.png">
+<img width="474" alt="Prototype1" src="https://user-images.githubusercontent.com/44983835/67640227-94360e00-f8cf-11e9-9f3e-b0dc01edc627.png">
+
+- This is a radial chart and it shows the average departure delay time for all flights thorugh 20180701 to 20190630.
+
+<img width="292" alt="Prototype2" src="https://user-images.githubusercontent.com/44983835/67640233-a021d000-f8cf-11e9-9eb0-a6a7daf31fff.png">
 
 
 
@@ -23,26 +25,27 @@ This is a radial chart and it shows the
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
+- What are the top-5 busiest airports in USA? (only consider the domestic flights)
+- How are the top-5 busiest airports perform over time?
 - How does USA flights' on-time performance vary over time?
-- What are the top-5 busiest flights for different airports?
-- How are the top-5 busiest flights perform for different airports?
-
 
 ## Interactions:
 
+- There will be an interactive color legend showing the top-5 busiest airports in USA. Each color represents one airport and clicking on this color legend will bring the corresponding information of this airport.
 - There will be a dropdown box called "time" containing four options: DAY_OF_MONTH, WEEKDAY, MONTH and DATE. Clicking on these different options will show the USA Flight On-time Performance in different time aspects.
-- There will be another dropdown box containing "departure" and "arrival" and it will show the departure performance and arrival performance seperately.
+
 
 
 ## Schedule of Deliverables:
 | Item                                                                                   | Estimated deadline |
 | :------------------------------------------------------------------------------------- | -----------------: |
 | Collect and clean data                                                                 | Done               |
-| Draw a radial chart to visualize USA flights' on-time performance over 'DAY_OF_MONTH'  | 10/15/2019         |
-| Add the "departure/arrival" interaction for the radial chart                           | 10/21/2019         |
-| Add different time granularities for the radial chart                                  | 10/28/2019         |
-| Color and polish the art                                                               | 11/03/2019         |
-| Organize all the deliverables                                                          | 11/06/2019         |
+| Draw a radial chart to visualize USA flights' average delay situation over 'DATE'      | 10/12/2019         |
+| Filter the top-5 busiest airports and combine them into one radial chart               | 10/17/2019         |
+| Add axes(tick marks and labels) for angle                                              | 10/20/2019         |
+| Create a corlor legend and make it interactive                                         | 10/23/2019         |
+| Organize the final project report                                                      | 10/27/2019         |
+| Make a video for this project                                                          | 10/29/2019         |
 
 
 ## Sketches
