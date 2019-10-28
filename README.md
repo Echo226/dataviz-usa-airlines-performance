@@ -51,7 +51,7 @@ Data is visualized by time to answer question "How does USA carriers' on-time pe
 
 
 
-[<img width="500" alt="Prototype2" src="https://user-images.githubusercontent.com/44983835/67640233-a021d000-f8cf-11e9-9eb0-a6a7daf31fff.png">](https://beta.vizhub.com/Echo226/ec4c2611923541869edbd23bc94b9ec4)
+[<img width="949"  src="https://user-images.githubusercontent.com/44983835/67640233-a021d000-f8cf-11e9-9eb0-a6a7daf31fff.png">](https://beta.vizhub.com/Echo226/ec4c2611923541869edbd23bc94b9ec4)
 
 
 
