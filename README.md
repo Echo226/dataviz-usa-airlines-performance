@@ -43,41 +43,22 @@ Data is visualized by time to answer question "How does USA carriers' on-time pe
 
 
 
-## Prototypes
-
-I've created two visualization prototypes of this dataset.
-
-#### Prototype1
-This is a map showing the location of all airports in USA. Each circle represents one airport.
-
-<img width="500" alt="Prototype1" src="https://user-images.githubusercontent.com/44983835/67640227-94360e00-f8cf-11e9-9f3e-b0dc01edc627.png">
-
-#### Prototype2
-This is a radial chart and it shows the average departure delay time for all flights thorugh 20180701 to 20190630.
-
-<img width="500" alt="Prototype2" src="https://user-images.githubusercontent.com/44983835/67640233-a021d000-f8cf-11e9-9eb0-a6a7daf31fff.png">
-
-
-
-
-
 ### Achievements
+
+* Map for locations of USA airports.
+  * This is a USA map showing the location of all airports in USA.
+  * Each circle represents an airport, and hovering on the circle will show the airport name and state.
+
+
+
+[<img width="500" alt="Prototype2" src="https://user-images.githubusercontent.com/44983835/67640233-a021d000-f8cf-11e9-9eb0-a6a7daf31fff.png">](https://beta.vizhub.com/Echo226/ec4c2611923541869edbd23bc94b9ec4)
+
+
 
 * On-time performance of the top-5 busiest airports in USA.
   * This radial chart shows the on-time performance of the top-5 busiest airports in USA. "BUSY" is defined by the total number of domestic flights departure from July 2018 to June 2019.
   * There is an interactive color legend on the top-right corner. Each color reperesents one airport and hovering on a specifit color will bring the corresponding radial chart of this airport.
   * In one radial chart, each angle represents a specific date from 20180701 to 20190630 and the radius shows how long is the average delay at this airport (in minutes).
-
-
-
-<iframe 
-    height=450 
-    width=800 
-    src="http://player.youku.com/embed/XMzMxMjE0MjY4NA==" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
-
 
 [<img width="949"  src="https://user-images.githubusercontent.com/44983835/67641319-f430b280-f8d7-11e9-8213-e6de11f0b0b0.png">](https://beta.vizhub.com/Echo226/40f6502388de4c4d8e985fffbff1d23e)
 
