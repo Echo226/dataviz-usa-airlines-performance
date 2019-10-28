@@ -19,20 +19,6 @@ The following tasks and questions will drive the visualization and interaction d
 
 
 
-## Schedule of Deliverables:
-
-| Item                                                                                   | Estimated deadline |
-| :------------------------------------------------------------------------------------- | -----------------: |
-| Collect and clean data                                                                 | Done               |
-| Draw a radial chart to visualize USA flights' average delay situation over 'DATE'      | 10/12/2019         |
-| Filter the top-5 busiest airports and combine them into one radial chart               | 10/17/2019         |
-| Add axes(tick marks and labels) for angle and radius                                   | 10/20/2019         |
-| Create a corlor legend and make it interactive                                         | 10/23/2019         |
-| Organize the final project report                                                      | 10/27/2019         |
-| Make a video for this project                                                          | 10/29/2019         |
-
-
-
 ## Sketches
 
 #### Sketch 1
@@ -81,6 +67,17 @@ This is a radial chart and it shows the average departure delay time for all fli
   * This radial chart shows the on-time performance of the top-5 busiest airports in USA. "BUSY" is defined by the total number of domestic flights departure from July 2018 to June 2019.
   * There is an interactive color legend on the top-right corner. Each color reperesents one airport and hovering on a specifit color will bring the corresponding radial chart of this airport.
   * In one radial chart, each angle represents a specific date from 20180701 to 20190630 and the radius shows how long is the average delay at this airport (in minutes).
+
+
+
+<iframe 
+    height=450 
+    width=800 
+    src="http://player.youku.com/embed/XMzMxMjE0MjY4NA==" 
+    frameborder=0 
+    allowfullscreen>
+</iframe>
+
 
 [<img width="949"  src="https://user-images.githubusercontent.com/44983835/67641319-f430b280-f8d7-11e9-8213-e6de11f0b0b0.png">](https://beta.vizhub.com/Echo226/40f6502388de4c4d8e985fffbff1d23e)
 
