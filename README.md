@@ -5,7 +5,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is [USA carrier on-time performance data](https://gist.github.com/Echo226/d58e972330148cb6e55c8d4ab2496215). It was collected from **United States Department of Transportation** and preprocessed with Python.
+The data I propose to visualize for my project is [USA airports on-time performance data](https://gist.github.com/Echo226/d58e972330148cb6e55c8d4ab2496215). It was collected from **United States Department of Transportation** and preprocessed with Python.
 
 
 
@@ -67,5 +67,6 @@ Data is visualized by time to answer question "How does USA carriers' on-time pe
 
 
 ### Future Works
-- I will add a radius axes on the radial chart, which enables us to read the precise delay time more clearly.
-- I will add a dropdown box called "time" containing four options: DAY_OF_MONTH, WEEKDAY, MONTH and DATE. Clicking on these different options will show the USA Flight On-time Performance in different time aspects.
+- Choose a different map, so that I can add Alaska and Hawaii into the map.
+- Add a radius axes on the radial chart, which enables us to read the precise delay time more clearly.
+- Combine the map and radial chart together and build interaction between, clicking on an airport on the map will bring you the corresponding on-time performance radial chart.
